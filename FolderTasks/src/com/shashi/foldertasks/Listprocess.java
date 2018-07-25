@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Listprocess {
-	private static final String DELETEWORDSLIST = "C:\\AppsData\\ACDSee9Pro\\Neo Done\\Thesupermodelsgallery.Com\\wp-content\\2008_01\\abc.txt";
+	private static final String DELETEWORDSLIST = "abc.txt";
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -25,7 +25,7 @@ import java.util.stream.Stream;
 import org.apache.commons.io.FileUtils;
 
 public class FolderParser {
-	private static final String DELETEWORDSLIST = "C:\\AppsData\\WebAll\\deletewordList.txt";
+	private static final String DELETEWORDSLIST = "deletewordList.txt";
 	public static String  INITIALPATH= "";	
 	 static int preserveRootFolders =0;
 	public static void main(String[] args) throws IOException {

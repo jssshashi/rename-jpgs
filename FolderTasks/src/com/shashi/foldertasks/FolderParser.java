@@ -26,7 +26,7 @@ import org.apache.commons.io.FileUtils;
 
 public class FolderParser {
 	private static final String DELETEWORDSLIST = "C:\\AppsData\\WebAll\\deletewordList.txt";
-	public static String  INITIALPATH= "S:\\System Volume Infomation\\HUGE\\Ddgzine.Com";	
+	public static String  INITIALPATH= "";	
 	 static int preserveRootFolders =0;
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
